@@ -1,4 +1,4 @@
-# Custom Dashboard For Openshift Clusters
+# Custom Grafana Dashboard For Openshift Clusters
 
 OpenShift cluster can be measured at various levels by using this dashboard. You can get general metrics of OpenShift Clusters on this dashboard. Such as, Cluster CPU Usage, Cluster Memory Usage and Cluster Disk Usage etc...
 
@@ -33,3 +33,5 @@ After this action, you can use the token and Thanos Query endpoint to connect th
 Afterwards, you can import the dashboard json file. 
 
 If you are unable to see some information on the dashboard, please make sure that the Promotheus server runs and store the data.
+
+If you want to improve the dashboard, please feel free to update it. 
